@@ -32,7 +32,7 @@
 在源码目录下以此执行：
 
 ```bash
-makedir build && cd build
+mkdir build && cd build
 cmake ..
 make -j8
 ```
